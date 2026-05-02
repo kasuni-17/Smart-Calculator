@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Smart Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1 class="title">🧮 Smart Calculator 🧮</h1>
+
+<div class="calculator">
+  <input type="text" id="display" disabled>
+
+  <div class="buttons">
+    <button class="function" onclick="clearDisplay()"><B>C</B></button>
+    <button class="function" onclick="appendValue('/')"><B>÷</B></button>
+    <button class="function" onclick="appendValue('*')"><B>×</B></button>
+    <button class="function" onclick="deleteLast()"><B>⌫</B></button>
+
+    <button onclick="appendValue('7')"><B>7</B></button>
+    <button onclick="appendValue('8')"><B>8</B></button>
+    <button onclick="appendValue('9')"><B>9</B></button>
+    <button class="operator" onclick="appendValue('-')"><B>-</B></button>
+
+    <button onclick="appendValue('4')"><B>4</B></button>
+    <button onclick="appendValue('5')"><B>5</B></button>
+    <button onclick="appendValue('6')"><B>6</B></button>
+    <button class="operator" onclick="appendValue('+')"><B>+</B></button>
+
+    <button onclick="appendValue('1')"><B>1</B></button>
+    <button onclick="appendValue('2')"><B>2</B></button>
+    <button onclick="appendValue('3')"><B>3</B></button>
+    <button class="equal" onclick="calculate()"><B>=</B></button>
+
+    <button class="zero" onclick="appendValue('0')"><B>0</B></button>
+    <button onclick="appendValue('.')"><B>.</B></button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
