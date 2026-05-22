@@ -23,6 +23,8 @@ It supports basic arithmetic operations with a clean UI, keyboard input, and res
 - Rounded buttons like a mobile calculator
 - Centred layout with modern design
 - Background image with soft blur/overlay
+- <img width="1812" height="891" alt="image" src="https://github.com/user-attachments/assets/61fa1965-fe8d-4476-9419-f08bf21f9ee9" />
+
 
 ---
 
