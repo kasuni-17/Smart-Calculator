@@ -1,5 +1,6 @@
-🧮 Smart Calculator
-A simple and modern calculator web application built using HTML, CSS, and JavaScript. It supports basic arithmetic operations with a clean UI, keyboard input, and responsive design.
+## 🧮 Smart Calculator
+
+---- A simple and modern calculator web application built using HTML, CSS, and JavaScript. It supports basic arithmetic operations with a clean UI, keyboard input, and responsive design.
 
 ✨ Features
 ➕ Addition, Subtraction, Multiplication, Division
@@ -9,23 +10,26 @@ A simple and modern calculator web application built using HTML, CSS, and JavaSc
 🎨 Modern light UI design
 🖥️ Real-time input display
 🌄 Background image with soft overlay
-🖼️ UI Preview
+--------------------------------------
+## 🖼️ UI Preview
 Light theme interface
 Rounded buttons like a mobile calculator
 Centred layout with modern design
 Background image with soft blur/overlay
-🚀 Technologies Used
+--------------------------------------
+## 🚀 Technologies Used
 HTML5 – Structure
 CSS3 – Styling & Layout
 JavaScript – Functionality
-📂 Project Structure
+## 📂 Project Structure
 calculator-project/
 │
 ├── index.html        # Main HTML file
 ├── style.css         # Styling file
 ├── script.js         # JavaScript logic
 └── README.md         # Project documentation
-⚙️ How to Run the Project
+
+## ⚙️ How to Run the Project
 Download or clone the project
 git clone https: https://github.com/kasuni-17/Smart-Calculator.git
 Open the folder
@@ -46,9 +50,10 @@ Transparent calculator card
 Smooth hover animations
 Rounded iPhone-style buttons
 Clean and modern typography
-💡 Future Improvements
+## 💡 Future Improvements
 Scientific calculator mode
 Dark/Light theme toggle
 Calculation history panel
 Mobile app version (React or Flutter)
+
  Don't forget to hit the ⭐ if you like this repo. 
